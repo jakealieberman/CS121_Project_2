@@ -1,4 +1,4 @@
-# CS121_Project_2
+# CS121 Project 2
 
 ## Functions to be built
 * printValues(int array[])
