@@ -1,5 +1,8 @@
 # CS121 Project 2
 
+## Overview
+* This program sorts an array of integers from lowest to highest using the bubble sort algorithm. The array has integers from 1 to 9. During each loop through the array, the program compares two integers next to eachother. If the left value is higher than the right, it swaps them. After each swap, the array is printed.
+
 ## Functions to be built
 * printValues(int array[])
 * swap(int *a, int *b)
